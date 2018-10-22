@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "602aa0f4fd10f9f472d7a7be8da9c1f4"
+build_time: [1538600986, 972511000]
+inputs:
+  "/Users/ellen/Desktop/JackTheGiant/AngelCalculator/AngelCalculator/ViewController.swift": [1510808588, 0]
+  "/Users/ellen/Desktop/JackTheGiant/AngelCalculator/AngelCalculator/MyENUMS.swift": [1510636743, 0]
+  "/Users/ellen/Desktop/JackTheGiant/AngelCalculator/AngelCalculator/AppDelegate.swift": [1510208032, 0]

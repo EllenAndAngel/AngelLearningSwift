@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "3dbb04a0fd15c2129429dc96c4ed1066"
+build_time: [1538608065, 978515000]
+inputs:
+  "/Users/ellen/Desktop/Dicee/Dicee/ViewController.swift": [1538608065, 0]
+  "/Users/ellen/Desktop/Dicee/Dicee/AppDelegate.swift": [1538603437, 0]

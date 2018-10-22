@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a523c9d5d9f7d04a60b97ed1f4fb36e2"
+build_time: [1539298062, 62114000]
+inputs:
+  "/Users/ellen/Desktop/gamr/gamr/GameScene.swift": [1539298054, 0]
+  "/Users/ellen/Desktop/gamr/gamr/GameViewController.swift": [1539298054, 0]
+  "/Users/ellen/Desktop/gamr/gamr/AppDelegate.swift": [1539298054, 0]

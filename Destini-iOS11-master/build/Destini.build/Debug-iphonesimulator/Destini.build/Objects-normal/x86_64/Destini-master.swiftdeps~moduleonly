@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "c3d1fdba2187053df58f9536c2e9b478"
+build_time: [1539755704, 333313000]
+inputs:
+  "/Users/ellen/Desktop/JackTheGiant/Destini-iOS11-master/Destini/ViewController.swift": [1539755704, 0]
+  "/Users/ellen/Desktop/JackTheGiant/Destini-iOS11-master/Destini/AppDelegate.swift": [1539755371, 0]

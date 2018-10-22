@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "7d17064cb18a261852d6650e63b960c0"
+build_time: [1538690619, 129404000]
+inputs:
+  "/Users/ellen/Desktop/Dicee/Magic B-Ball/Magic B-Ball/ViewController.swift": [1538690619, 0]
+  "/Users/ellen/Desktop/Dicee/Magic B-Ball/Magic B-Ball/AppDelegate.swift": [1538685511, 0]

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b85b8a152e43de6843494eecd97e2d93"
+build_time: [1538515508, 826258000]
+inputs:
+  "/Users/ellen/Desktop/I Am Rich/I Am Rich/ViewController.swift": [1538515504, 0]
+  "/Users/ellen/Desktop/I Am Rich/I Am Rich/AppDelegate.swift": [1538515504, 0]

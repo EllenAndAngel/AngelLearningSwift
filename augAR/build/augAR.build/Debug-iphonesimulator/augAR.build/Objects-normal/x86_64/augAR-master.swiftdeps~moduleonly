@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "e0ec37309557f4d3e523d40835e71f8e"
+build_time: [1539298398, 419146000]
+inputs:
+  "/Users/ellen/Desktop/augAR/augAR/ViewController.swift": [1539298392, 0]
+  "/Users/ellen/Desktop/augAR/augAR/AppDelegate.swift": [1539298392, 0]

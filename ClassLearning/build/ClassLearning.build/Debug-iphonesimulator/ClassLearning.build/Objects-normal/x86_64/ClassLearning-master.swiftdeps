@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b1bac219825100a5e94b64fea04a05f1"
+build_time: [1540163009, 890124000]
+inputs:
+  "/Users/ellen/GitHub/JackTheGiant/ClassLearning/ClassLearning/ViewController.swift": [1540163005, 0]
+  "/Users/ellen/GitHub/JackTheGiant/ClassLearning/ClassLearning/AppDelegate.swift": [1540163005, 0]

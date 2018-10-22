@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Magic_B_Ball" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="97b-Cv-XzW">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                                <color key="backgroundColor" red="0.058823529409999999" green="0.5450980392" blue="0.73333333329999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="97b-Cv-XzW" secondAttribute="height" multiplier="9:16" id="9zv-qc-Ajk"/>
+                                </constraints>
+                                <state key="normal" title="P.S Shake me"/>
+                                <connections>
+                                    <action selector="button:" destination="BYZ-38-t0r" eventType="touchDragInside" id="16F-Pw-y5e"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ball1" translatesAutoresizingMaskIntoConstraints="NO" id="3Vc-r5-pti">
+                                <rect key="frame" x="-21.666666666666657" y="159.33333333333334" width="457.33333333333326" height="417.33333333333326"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="3Vc-r5-pti" secondAttribute="height" multiplier="80:73" id="FkN-ZU-mC0"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.058823529409999999" green="0.5450980392" blue="0.73333333329999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="3Vc-r5-pti" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="1gc-Ua-QLh"/>
+                            <constraint firstItem="97b-Cv-XzW" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="gvV-ln-dqU"/>
+                            <constraint firstItem="3Vc-r5-pti" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="jbn-EY-nI5"/>
+                            <constraint firstItem="97b-Cv-XzW" firstAttribute="centerY" secondItem="3Vc-r5-pti" secondAttribute="centerY" id="r8K-Y4-6sF"/>
+                            <constraint firstItem="97b-Cv-XzW" firstAttribute="centerX" secondItem="3Vc-r5-pti" secondAttribute="centerX" id="raS-pq-z0g"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="randomBallImage" destination="3Vc-r5-pti" id="M0p-PA-eTS"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="131.25"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ball1" width="457" height="410"/>
+    </resources>
+</document>

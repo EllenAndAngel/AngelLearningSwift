@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "b48ec0beedad063b9ea6aff22b21f75c"
+build_time: [1538601103, 256081000]
+inputs:
+  "/Users/ellen/Desktop/JackTheGiant/Guess my fingers/Guess my fingers/ViewController.swift": [1508718301, 0]
+  "/Users/ellen/Desktop/JackTheGiant/Guess my fingers/Guess my fingers/AppDelegate.swift": [1508714101, 0]

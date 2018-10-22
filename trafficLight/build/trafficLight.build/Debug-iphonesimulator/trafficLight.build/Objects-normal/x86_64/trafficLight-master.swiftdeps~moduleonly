@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "1c9f6fb4a1cee4d4a0aef1a422ace3e6"
+build_time: [1538600829, 394903000]
+inputs:
+  "/Users/ellen/Desktop/JackTheGiant/trafficLight/trafficLight/ViewController.swift": [1511853407, 0]
+  "/Users/ellen/Desktop/JackTheGiant/trafficLight/trafficLight/AppDelegate.swift": [1509835063, 0]

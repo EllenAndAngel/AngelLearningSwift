@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "4127256b0b75014f0761e793c5aab362"
+build_time: [1539470413, 191027000]
+inputs:
+  "/Users/ellen/Desktop/ff/ff/ViewController.swift": [1539470407, 0]
+  "/Users/ellen/Desktop/ff/ff/AppDelegate.swift": [1539470407, 0]

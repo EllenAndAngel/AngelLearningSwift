@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "af999554db75ca4ebc4731b128e6e7f8"
+build_time: [1540163150, 797745000]
+inputs:
+  "/Users/ellen/GitHub/JackTheGiant/AngelPiano/AngelPiano/ViewController.swift": [1540163147, 0]
+  "/Users/ellen/GitHub/JackTheGiant/AngelPiano/AngelPiano/AppDelegate.swift": [1540163147, 0]

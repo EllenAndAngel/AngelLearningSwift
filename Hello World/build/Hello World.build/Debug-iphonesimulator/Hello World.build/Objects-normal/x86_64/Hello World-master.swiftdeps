@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "5b8604731b7aba6bcf5d7c9aa920570a"
+build_time: [1538514019, 583296000]
+inputs:
+  "/Users/ellen/Desktop/Hello World/Hello World/ViewController.swift": [1538514019, 0]
+  "/Users/ellen/Desktop/Hello World/Hello World/AppDelegate.swift": [1538512951, 0]
