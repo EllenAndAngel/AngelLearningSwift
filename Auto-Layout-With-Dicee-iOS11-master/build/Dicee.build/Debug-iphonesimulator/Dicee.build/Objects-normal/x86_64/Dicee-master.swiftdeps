@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "48a4d88e2c9ffd4fe4af5c00db7e12f0"
-build_time: [1540156670, 392436000]
-inputs:
-  "/Users/ellen/Downloads/Auto-Layout-With-Dicee-iOS11-master/Dicee/ViewController.swift": [1510776232, 0]
-  "/Users/ellen/Downloads/Auto-Layout-With-Dicee-iOS11-master/Dicee/AppDelegate.swift": [1510776232, 0]

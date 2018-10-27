@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "0ec112a707cb7b126cab638ef0d1e0dc"
+build_time: [1538602740, 186703000]
+inputs:
+  "/Users/ellen/Downloads/I-Am-Poor-iOS11-master/I Am Poor/ViewController.swift": [1510776726, 0]
+  "/Users/ellen/Downloads/I-Am-Poor-iOS11-master/I Am Poor/AppDelegate.swift": [1510776726, 0]

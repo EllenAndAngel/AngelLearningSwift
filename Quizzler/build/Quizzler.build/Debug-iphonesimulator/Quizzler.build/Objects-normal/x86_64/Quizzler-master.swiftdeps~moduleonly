@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "675eaafe23e6fa231df8d778f3825775"
+build_time: [1540603913, 476274000]
+inputs:
+  "/Users/ellen/GitHub/JackTheGiant/Quizzler-iOS11-master/Quizzler/Question.swift": [1540357308, 0]
+  "/Users/ellen/GitHub/JackTheGiant/Quizzler-iOS11-master/Quizzler/QuestionBank.swift": [1540597868, 0]
+  "/Users/ellen/GitHub/JackTheGiant/Quizzler-iOS11-master/Quizzler/ViewController.swift": [1540603913, 0]
+  "/Users/ellen/GitHub/JackTheGiant/Quizzler-iOS11-master/Quizzler/AppDelegate.swift": [1540599794, 0]
